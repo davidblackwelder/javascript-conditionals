@@ -7,9 +7,9 @@
  */
 
 // change the values of `shirtWidth`, `shirtLength`, and `shirtSleeve` to test your code
-var shirtWidth = 18;
-var shirtLength = 29;
-var shirtSleeve = 8.47;
+let shirtWidth = 18;
+let shirtLength = 29;
+let shirtSleeve = 8.47;
 
 // your code goes here
 if ((shirtWidth >= 18 && shirtWidth < 20) && (shirtLength >= 28 && shirtLength < 29) && (shirtSleeve >= 8.13 && shirtSleeve < 8.38)) {
