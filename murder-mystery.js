@@ -37,11 +37,11 @@
  */
 
 // change the value of `room` and `suspect` to test your code
-var room = "dining room";
-var suspect = "Mr. Kalehoff";
+let room = "dining room";
+let suspect = "Mr. Kalehoff";
 
-var weapon = "";
-var solved = false;
+let weapon = "";
+let solved = false;
 
 if (room === "dining room") {
     weapon = "knife";
